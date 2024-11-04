@@ -1,5 +1,5 @@
 # Corrosion-Analysis
-As a Metallurgical and Metals Engineer, I utilized my data analysis and scientific skills to visualize how metals corrode over time.
+As a Metallurgical and Materials Engineer, I utilized my data analysis and scientific skills to visualize how metals corrode over time.
 
 # About the dataset
 The data were obtained and well calculated in the metallurgical corrosion practical lab.
