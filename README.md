@@ -1,10 +1,10 @@
 # Corrosion-Analysis
-As a Metallurgical and Meterials Engineer, I utilized my data analysis and scientist skills to visualize how aluminium alloy corrode with time.
+As a Metallurgical and Metals Engineer, I utilized my data analysis and scientific skills to visualize how metals corrode over time.
 
 # About the dataset
-The data were gotten and well calculated in metallurgical corrosion practical lab.
+The data were obtained and well calculated in the metallurgical corrosion practical lab.
 
 - **Pandas**: for data manipulation and analysis
-- **Matplotlib** / **Seaborn**: for visualizations
+- **Matplotlib**: for visualizations
 - **NumPy**: for numerical operations
 
